@@ -1,0 +1,24 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[3]!./styles/Componentes.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************/
+.FondoIconoTarea {
+    width: 223px;
+    height: 221px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: var(--Paleta3, #EBEBEB);
+}
+
+.TextoIconoTarea {
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.map-container {
+    background-color: aqua;
+  }
